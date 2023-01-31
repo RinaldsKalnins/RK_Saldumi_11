@@ -1,0 +1,10 @@
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\obj\Debug\RK_Saldumi_11.csprojAssemblyReference.cache
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\obj\Debug\RK_Saldumi_11.Form1.resources
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\obj\Debug\RK_Saldumi_11.Properties.Resources.resources
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\obj\Debug\RK_Saldumi_11.csproj.GenerateResource.cache
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\obj\Debug\RK_Saldumi_11.csproj.CoreCompileInputs.cache
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\bin\Debug\RK_Saldumi_11.exe.config
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\bin\Debug\RK_Saldumi_11.exe
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\bin\Debug\RK_Saldumi_11.pdb
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\obj\Debug\RK_Saldumi_11.exe
+Z:\11.KLASES programesana\RK_Saldumi_11\RK_Saldumi_11\obj\Debug\RK_Saldumi_11.pdb

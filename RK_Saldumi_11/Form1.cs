@@ -16,5 +16,28 @@ namespace RK_Saldumi_11
         {
             InitializeComponent();
         }
+
+        private void Apreķināšana_Click(object sender, EventArgs e)
+        {
+            double sk1 = Convert.ToDouble(daudzums.Text);
+            double sk2 = 9.88;
+            double rezultats = sk1 / sk2;
+            daudzums.Text = rezultats.ToString();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
